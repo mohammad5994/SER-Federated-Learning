@@ -1,4 +1,9 @@
 Aijack(Federated Learning Framework)
 https://github.com/Koukyosyumei/AIJack
 
+Dataset: CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset)
+https://github.com/CheyneyComputerScience/CREMA-D
+
+
+
 
