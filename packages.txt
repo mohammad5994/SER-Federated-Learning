@@ -4,6 +4,18 @@ https://github.com/Koukyosyumei/AIJack
 Dataset: CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset)
 https://github.com/CheyneyComputerScience/CREMA-D
 
+For each audio file, We extracted 988 acoustic features using Emobase features of Opensmile library.
+https://audeering.github.io/opensmile/get-started.html
+
+In Train_Data.pkl and Test_Data.pkl, you can find 3868 and 930 samples respectively that contains:
+1- Speaker ID
+2- Gender of the speaker
+3- 988 acoustic features
+4- label
+
+The 3868 training data are grouped by Speaker ID into 73 clients.
+
+The 930 test data are grouped by Speaker ID into 18 clients.
 
 
 
